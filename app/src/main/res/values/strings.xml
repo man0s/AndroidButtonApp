@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple Android Button App</string>
+    <string name="simple_button_app">Simple Button App</string>
+    <string name="click_me">Click Me</string>
+</resources>
