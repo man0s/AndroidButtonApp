@@ -1,6 +1,6 @@
 # Simpe Android Button App
 <p align="center">
-   <img src="https://i.imgur.com/9YSx4c3.png" width="200" height="400">
+   <img src="https://i.imgur.com/9YSx4c3.png" width="350" height="400">
 </p>
 <br>
 <i>
